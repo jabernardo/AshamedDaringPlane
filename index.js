@@ -17,5 +17,5 @@ app.use(routes)
 
 // Start listening
 app.listen(port, () => {
-  console.log(`Simple RESTful API is running at http://localhost:${port}`)
+  console.log(`RESTful API is running at http://localhost:${port}`)
 })
